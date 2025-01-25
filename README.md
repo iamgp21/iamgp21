@@ -8,8 +8,3 @@
 # Certifications: 
 
 ![Scaling-cloud-native-applications-with-ked](https://github.com/user-attachments/assets/fcc9f538-a3d9-444b-86d5-d21e4e919497)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamgauravpande&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamgauravpande&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgauravpande&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
