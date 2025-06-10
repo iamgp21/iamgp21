@@ -9,6 +9,7 @@
 
 ![hashicorp-certified-terraform-associate](https://github.com/user-attachments/assets/63e249df-3f11-4d3b-82a5-1bf807020878)
 ![ckad-certified-kubernetes-application-developer](https://github.com/user-attachments/assets/c5da5c30-1e3e-45a5-b42e-4a054538c26b)
+![otca-opentelemetry-certified-associate](https://github.com/user-attachments/assets/eeb73846-b964-4b3a-be3d-0dbc935ac9dd)
 ![lfel1014-scaling-cloud-native-applications-with-keda](https://github.com/user-attachments/assets/3053beb2-ba51-4e27-b0e7-f3d97ecb5eeb)
 
 
